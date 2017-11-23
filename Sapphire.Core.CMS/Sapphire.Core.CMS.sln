@@ -5,6 +5,12 @@ VisualStudioVersion = 15.0.27004.2008
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapphire.Core.Infrastructure", "Sapphire.Core.Infrastructure\Sapphire.Core.Infrastructure.csproj", "{128F4C74-63E6-42FE-85F2-1661A5508A72}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapphire.Core.WebSite", "Sapphire.Core.WebSite\Sapphire.Core.WebSite.csproj", "{4AEC4F73-652E-4E66-B532-D10ABD4E41A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapphire.Core.Test", "Sapphire.Core.Test\Sapphire.Core.Test.csproj", "{20426148-D0C9-43D6-9F51-760013233A5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sapphire.Core.Models", "Sapphire.Core.Models\Sapphire.Core.Models.csproj", "{3636CB36-20ED-4CA8-8AA9-D275D9A51542}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +21,18 @@ Global
 		{128F4C74-63E6-42FE-85F2-1661A5508A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{128F4C74-63E6-42FE-85F2-1661A5508A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{128F4C74-63E6-42FE-85F2-1661A5508A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AEC4F73-652E-4E66-B532-D10ABD4E41A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AEC4F73-652E-4E66-B532-D10ABD4E41A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AEC4F73-652E-4E66-B532-D10ABD4E41A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AEC4F73-652E-4E66-B532-D10ABD4E41A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20426148-D0C9-43D6-9F51-760013233A5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20426148-D0C9-43D6-9F51-760013233A5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20426148-D0C9-43D6-9F51-760013233A5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20426148-D0C9-43D6-9F51-760013233A5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3636CB36-20ED-4CA8-8AA9-D275D9A51542}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3636CB36-20ED-4CA8-8AA9-D275D9A51542}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3636CB36-20ED-4CA8-8AA9-D275D9A51542}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3636CB36-20ED-4CA8-8AA9-D275D9A51542}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
